@@ -39,7 +39,7 @@ function Projects() {
               title="Blood Donation System"
               description="A full-stack web application that connects blood donors with recipients through an OTP-based sign-up/login system. Includes request management, donor history tracking, live chat and a user-friendly dashboard."
               ghLink="https://github.com/vukkumlakshmibhaskar/BloodManangement"
-              demoLink="https://blood-manangement.vercel.app/login"
+              demoLink="https://blood-manangement.vercel.app"
             />
           </Col>
 
@@ -60,7 +60,7 @@ function Projects() {
               isBlog={false}
               title="Restaurant Order & Table Booking System"
               description="Built a full-stack MERN application for seamless online food ordering and table reservations. Integrated secure MongoDB data storage, real-time booking status, and a responsive, user-friendly interface for customers and administrators."
-              ghLink="https://github.com/vukkumlakshmibhaskar/Restaurent_Booking"
+              ghLink="https://github.com/vukkumlakshmibhaskar/restaurent_Table_booking"
               demoLink="https://restaurent-table-booking.vercel.app/"
             />
           </Col>
