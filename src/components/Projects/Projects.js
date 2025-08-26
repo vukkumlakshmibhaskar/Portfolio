@@ -82,7 +82,7 @@ function Projects() {
               isBlog={false}
               title="Bankist"
               description="A dynamic banking application where users can log in to view balances, track transactions, transfer money, request loans, and monitor financial activity in real time with a clean, intuitive UI."
-              ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
+              ghLink="https://github.com/vukkumlakshmibhaskar/bankist"
               demoLink="https://bankist-zeta-eight.vercel.app/login"
             />
           </Col>
